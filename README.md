@@ -182,7 +182,7 @@
 ╚═════════════════════════════════════════════════════╝
 ```
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Sakthi10122004&label=Profile+Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![Profile Views](sakthi.page.gd)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A0A2E,100:00FF41&height=130&section=footer" width="100%"/>
 
